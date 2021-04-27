@@ -1,0 +1,33 @@
+Bulls & Cows game result.
+Your code: 7204
+Computer's code: 1753
+---
+Turn 1:
+You guessed 3729, scoring 1 bulls and 1 cows
+Computer guessed 1074, scoring 1 bulls and 2 cows
+---
+Turn 2:
+You guessed 2940, scoring 0 bulls and 0 cows
+Computer guessed 3701, scoring 1 bulls and 1 cows
+---
+Turn 3:
+You guessed 2742, scoring 1 bulls and 0 cows
+Computer guessed 2614, scoring 1 bulls and 1 cows
+---
+Turn 4:
+You guessed 3710, scoring 1 bulls and 2 cows
+Computer guessed 0174, scoring 1 bulls and 2 cows
+---
+Turn 5:
+You guessed 2716, scoring 1 bulls and 1 cows
+Computer guessed 4652, scoring 0 bulls and 2 cows
+---
+Turn 6:
+You guessed 2946, scoring 0 bulls and 0 cows
+Computer guessed 0726, scoring 0 bulls and 3 cows
+---
+Turn 7:
+You guessed 1234, scoring 1 bulls and 1 cows
+Computer guessed 4532, scoring 0 bulls and 2 cows
+------
+********** No more guesses remaining. It's a DRAW! **********
